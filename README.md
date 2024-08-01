@@ -1,12 +1,13 @@
 # Car-Parking-Sensor
 
+
 ---
 
 # PWM and Interfacing in Arduino
 
 ## Description
 
-This repository contains the code and simulation files for a personal project focused on **PWM (Pulse Width Modulation) and Interfacing in Arduino**. The main objective of this project is to explore the functionalities of PWM and how to interface an ultrasonic sensor and an LCD display using an Arduino.
+This repository contains the code and simulation files for a personal project focused on [PWM (Pulse Width Modulation) and Interfacing in Arduino]. The main objective of this project is to explore the functionalities of PWM and how to interface an ultrasonic sensor and an LCD display using an Arduino.
 
 ## Objectives
 
@@ -17,6 +18,7 @@ This repository contains the code and simulation files for a personal project fo
 
 ### Software
 - Arduino IDE
+- Proteus Simulation
 
 ### Hardware
 - Breadboard
@@ -51,6 +53,11 @@ For accurate results, important values such as distance and duty cycle are print
 
 - [Ultrasonic sensor calibration](https://projecthub.arduino.cc/panagorko/next-level-ultrasonic-sensor-df5768)
 - [LCD display tutorial](https://www.makerguides.com/character-lcd-arduino-tutorial/)
+
+## Demo
+
+Watch a demo of the project [here](https://www.youtube.com/watch?v=0_NMVDncKH4).
+
 
 ## Contact
 
